@@ -1,0 +1,111 @@
+GAP: ASSEMBLE REVISION 055 OF AGC PROGRAM COMANCHE BY NASA 2021113-051      10:28 APR. 1,1969      (MAIN)     PAGE 1
+
+L       ASSEMBLY AND OPERATION INFORMATION                                        USER'S PAGE NO.    1         EO
+
+R000001
+
+R000002 *************************************************************************
+R000003 *                                                                       *
+R000004 *            THIS AGC PROGRAM SHALL ALSO BE REFERRED TO AS:             *
+R000005 *                                                                       *
+R000006 *                                                                       *
+R000007 *                           COLOSSUS 2A                                 *
+R000008 *                                                                       *
+R000009 *                                                                       *
+R00001  *        THIS PROGRAM IS INTENDED FOR USE IN THE CM AS SPECIFIED        *
+R000011 *        IN REPORT R-577. THIS PROGRAM WAS PREPARED UNDER DSR           *
+R000012 *        PROJECT 55-23870, SPONSORED BY THE MANNED SPACECRAFT           *
+R000013 *        CENTER OF THE NATIONAL AERONAUTICS AND SPACE                   *
+R000014 *        ADMINISTRATION THROUGH CONTRACT NAS 9-4065 WITH THE            *
+R000015 *        INSTRUMENTATION LABORATORY. MASSACHUSETTS INSTITUTE OF         *
+R000016 *        TECHNOLOGY. CAMBRIDGE. MASS.                                   *
+R000017 *                                                                       *
+R000018 *************************************************************************
+
+
+R000019         SUBMITTED: MARGARET H. HAMILTON                 DATE: 28 MAR 69
+R00002              M.H.HAMILTON, COLOSSUS PROGRAMMING LEADER
+R000021             APOLLO GUIDANCE AND NAVIGATION
+
+R000022        APPROVED:  DANIEL J. LICKY                       DATE: 28 MAR 69
+R000023             D.J.LICKLY. DIRECTOR, MISSION PROGRAM DEVELOPMENT
+R000024             APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+R000025        APPROVED:  FRED H. MARTIN                        DATE: 28 MAR 69
+R000026             FRED H. MARTIN, COLOSSUS PROJECT MANGER
+R000027             APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+R000028        APPROVED:  NORMAN E.SEARS                        DATE: 28 MAR 69
+R000029             N.E. SEARS. DIRECTOR, MISSION DEVELOPMENT
+R00003              APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+R000031        APPROVED:  RICHARD H. BATTIN                     DATE: 28 MAR 69
+R000032             R.H. BATTIN. DIRECTOR, MISSION DEVELOPMENT
+R000033             APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+R000034        APPROVED:  DAVID G. HOAG                        DATE: 28 MAR 69
+R000036             D.G. HOAG, DIRECTOR
+R000037             APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+R000038        APPROVED:  RALPH R. RAGAN                       DATE: 28 MAR 69
+R000039             R.R. RAGAN. DEPUTY DIRECTOR
+R00004              INSTRUMENTATION LABORATORY
+
+
+
+
+
+GAP:    ASSEMBLE REVISION 055 OF AGC PROGRAM COMANCHE BY NASA 2021113-051       10:28 APR. 1.1969  (MAIN)   PAGE   2
+
+L         ASSEMBLY AND OPERATION INFORMATION
+
+R0001
+R0002
+R0003
+
+R0004
+R0005
+R0006
+R0007
+R0008
+R0009
+R0010
+R0011
+R0012
+R0013
+R0014
+R0015
+R0016
+R0017
+R0018
+R0019
+R0020
+R0021
+R0022
+R0023
+R0024
+R0025
+R0026
+R0027
+R0028
+R0029
+R0030
+R0031
+R0032
+R0033
+R0034
+R0035
+R0036
+R0037
+R0038
+R0039
+R0040
+R0041
+R0042
+R0043
+R0044
+R0045
+R0046
+R0047
+R0048
+
